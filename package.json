@@ -1,6 +1,6 @@
 {
-  "name": "json-typescript-mapper",
-  "version": "1.1.3",
+  "name": "vh-json-typescript-mapper",
+  "version": "1.1.4",
   "typescript": {
     "definition": "index.d.ts"
   },
